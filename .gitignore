@@ -1,0 +1,48 @@
+# ==== Python / Thrift ====
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Thrift generated code
+gen-py/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+
+# ==== Java / RMI ====
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Directories
+target/
+bin/
+out/
+
+# IDEs and metadata
+.classpath
+.project
+.settings/
+*.iml
+
+# ==== OS-specific ====
+.DS_Store
+Thumbs.db
