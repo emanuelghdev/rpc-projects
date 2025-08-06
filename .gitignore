@@ -11,7 +11,7 @@ env/
 venv/
 
 # Thrift generated code
-gen-py/
+# gen-py/
 
 # Distribution / packaging
 build/
